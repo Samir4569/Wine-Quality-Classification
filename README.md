@@ -42,8 +42,8 @@ I two different models:
 The Random Forest model far outperformed the other approaches on the test and validation sets. 
 *	**Random Forest** : accuracy_score =  0.8276923076923077
 
-Model Accuracy:  0.76
-Classification Report:
+*Model Accuracy:  0.76
+*Classification Report:
                 precision    recall  f1-score   support
 
            0       0.80      0.73      0.76       492
@@ -61,9 +61,9 @@ Classification Report:
            0       0.80      0.73      0.76       492
            1       0.84      0.89      0.87       808
 
-    accuracy                           0.83      1300
-   macro avg       0.82      0.81      0.81      1300
-weighted avg       0.83      0.83      0.83      1300
+     *accuracy                           0.83      1300
+   *macro avg       0.82      0.81      0.81      1300
+*weighted avg       0.83      0.83      0.83      1300
 
 
 
