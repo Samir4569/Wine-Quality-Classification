@@ -1,9 +1,10 @@
-# Wine Quality Classification: Project Overview 
-* Created a tool that estimates data science salaries (MAE ~ $ 11K) to help data scientists negotiate their income when they get a job.
-* Scraped over 1000 job descriptions from glassdoor using python and selenium
-* Engineered features from the text of each job description to quantify the value companies put on python, excel, aws, and spark. 
-* Optimized Linear, Lasso, and Random Forest Regressors using GridsearchCV to reach the best model. 
-* Built a client facing API using flask 
+# Wine Quality Classification: Project Overview
+
+* Developed a model to classify wine quality using binary classification.
+* Preprocessed data by handling missing values, encoding variables, and scaling features.
+* Conducted exploratory data analysis (EDA) to understand distributions and visualized key insights.
+* Built and evaluated Multiple Linear Regression and Random Forest models, selecting the best performer.
+* Achieved a Random Forest model accuracy of 0.8277, with detailed classification metrics provided.
 
 ## Code and Resources Used 
 **Python Version:** 3.7  
@@ -39,7 +40,7 @@ I two different models:
 *	**Random Forest** – Again, with the sparsity associated with the data, I thought that this would be a good fit. 
 
 ## Model performance
-The Random Forest model far outperformed the other approaches on the test and validation sets. 
+The Random Forest model outperformed the other approaches on the test.
 *	**Random Forest** : accuracy_score =  0.8276923076923077
 
 **Classification Report:**
