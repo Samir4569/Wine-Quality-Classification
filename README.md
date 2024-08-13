@@ -25,8 +25,8 @@ After getting the data, I needed to clean it up so that it was usable for our mo
 ## EDA
 I looked at the distributions of the data and the value counts for the various categorical variables. Below are a few highlights from the pivot tables. 
 
-![alt text](https://github.com/Samir4569/Wine-Quality-Classification/blob/main/assets/Screenshot%202024-08-13%20221026.png)
-![alt text](https://github.com/Samir4569/Wine-Quality-Classification/blob/main/assets/Screenshot%202024-08-13%20221043.png)
+![alt text](https://github.com/Samir4569/Wine-Quality-Classification/blob/main/assets/graph.png)
+![alt text](https://github.com/Samir4569/Wine-Quality-Classification/blob/main/assets/graph2.png)
 
 ## Model Building 
 
