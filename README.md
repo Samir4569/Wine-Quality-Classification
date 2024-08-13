@@ -14,12 +14,12 @@
 ## Data Preprocessing And Feature Engineering 
 After getting the data, I needed to clean it up so that it was usable for our model. I made the following changes and created the following variables:
 
-# In order to get rid of null values, I created a method that fills null values with the mean of the column.
-# Selected numerical and categorical variables.
-# The `quality` variable was of type `int`, so I converted it into a categorical variable.
-# Encoded them based on whether they were nominal or ordinal.
-# Added the encoded data and removed the original columns.
-# Adjusted data distributions using `StandardScaler`.
+*	In order to get rid of null values, I created a method that fills null values with the mean of the column. 
+*	Selected numerical and categorical variables. 
+*	The `quality` variable was of type `int`, so I converted it into a categorical variable.
+*	Encoded them based on whether they were nominal or ordinal.
+*	Added the encoded data and removed the original columns.
+*	Adjusted data distributions using `StandardScaler`.
 
   
 ## EDA
