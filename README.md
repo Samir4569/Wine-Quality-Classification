@@ -3,7 +3,7 @@
 * Developed a model to classify wine quality using binary classification.
 * Preprocessed data by handling missing values, encoding variables, and scaling features.
 * Conducted exploratory data analysis (EDA) to understand distributions and visualized key insights.
-* Built and evaluated Multiple Linear Regression and Random Forest models, selecting the best performer.
+* Built and evaluated k-nearest neighbor and Random Forest models, selecting the best performer.
 * Achieved a Random Forest model accuracy of 0.8277, with detailed classification metrics provided.
 
 ## Code and Resources Used 
