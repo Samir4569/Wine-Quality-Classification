@@ -33,10 +33,10 @@ I looked at the distributions of the data and the value counts for the various c
 
 I also split the data into train and tests sets with a test size of 20%.   
 
-I tried three different models and evaluated them using Mean Absolute Error. I used accuracy_score and classification_report because it is relatively easy to interpret and outliers aren’t particularly bad in for this type of model.   
+I tried two different models and evaluated them using Accuracy_score and Classification Report. I used accuracy_score and classification_report because it is relatively easy to interpret and outliers aren’t particularly bad in for this type of model.   
 
 I two different models:
-*	**Multiple Linear Regression** – Baseline for the model
+*	**k-nearest neighbor** – Baseline for the model
 *	**Random Forest** – Again, with the sparsity associated with the data, I thought that this would be a good fit. 
 
 ## Model performance
