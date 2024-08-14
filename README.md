@@ -9,7 +9,6 @@
 ## Code and Resources Used 
 **Python Version:** 3.7  
 **Packages:** pandas, numpy, sklearn, matplotlib, seaborn  
-**For Web Framework Requirements:**    
 **Kaggle Dataset:** https://www.kaggle.com/datasets/nareshbhat/wine-quality-binary-classification
 
 ## Data Preprocessing And Feature Engineering 
